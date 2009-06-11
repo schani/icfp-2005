@@ -1,0 +1,4 @@
+#!/bin/sh
+BDK_BOT_EXE_DIR="/homes/signof/bin"
+export BDK_BOT_EXE_DIR
+exec "/homes/icfp/bdk4/bdk-lib/mzscheme" -mvqu "/homes/icfp/bdk4/bdk-lib/mtee.ss" ${1+"$@"}

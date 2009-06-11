@@ -1,0 +1,18 @@
+env = Environment()
+bld = Builder(action = 'gawk -f tokenmap.gawk $SOURCE > $TARGET')
+env.Append(BUILDERS = {'TokenArrays' : bld})
+
+env.Replace(CCFLAGS = '-g -Wall -std=c99 -DNO_OUTPUT ')
+env.Replace(LIBS = 'm')
+
+env.TokenArrays('token_arrays.c', 'token.h')
+env.Depends('token_arrays.c', 'tokenmap.gawk')
+env.Program('parser_test', ['parser.c', 'parser_test.c', 'lexer.c', 'parser_print.c', 'map.c', 'dijkstra.c', 'announcer.c', 'token_arrays.c', 'dprintf.c'])
+
+env.Program('intelligent-cop', ['opening_book.c', 'coplib.c', 'intelligent-cop.c', 'parser.c', 'lexer.c', 'parser_print.c', 'map.c', 'dijkstra.c', 'announcer.c', 'token_arrays.c'])
+
+env.Program('kottan', ['parser.c', 'kottan.c', 'lexer.c', 'parser_print.c', 'map.c', 'dijkstra.c', 'announcer.c', 'token_arrays.c'])
+
+env.Program('columbo', ['parser.c', 'columbo.c', 'lexer.c', 'parser_print.c', 'map.c', 'dijkstra.c', 'announcer.c', 'token_arrays.c'])
+
+env.Program('resi', ['parser.c', 'resi.c', 'resi_main.c', 'lexer.c', 'parser_print.c', 'map.c', 'dijkstra.c', 'announcer.c', 'token_arrays.c', 'dprintf.c'])

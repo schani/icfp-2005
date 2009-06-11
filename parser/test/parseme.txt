@@ -1,0 +1,145 @@
+reg: GUIRobber robber
+reg: McGruffX cop-foot
+reg: McGruffX cop-car
+reg: McGruffX cop-car
+reg: McGruffX cop-foot
+reg: GUICopX cop-car
+mov: 54-and-ridgewood robber
+inf\
+inf: GUIRobber 56-and-woodlawn robber 1 -100
+inf: GUIRobber 54pl-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-kimbark robber 1 -100
+inf: GUIRobber 55-and-university robber 1 -100
+inf: GUIRobber 56-and-woodlawn robber 1 -100
+inf: GUIRobber 54pl-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-kimbark robber 1 -100
+inf: GUIRobber 55-and-university robber 1 -100
+inf: GUIRobber 57-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 56-and-kimbark robber 1 -100
+inf: GUIRobber 57-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 56-and-university robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 54-and-woodlawn robber 1 -100
+inf: GUIRobber 54pl-and-university robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 54-and-woodlawn robber 1 -100
+inf: GUIRobber 54-and-kimbark robber 1 -100
+inf: GUIRobber 55-and-kenwood robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 56-and-kimbark robber 1 -100
+inf: GUIRobber 55-and-kenwood robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber the-other-55-and-university robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-greenwood robber 1 -100
+inf: GUIRobber 56-and-university robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-greenwood robber 1 -100
+inf: GUIRobber 57-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 56-and-kimbark robber 1 -100
+inf: GUIRobber 57-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 56-and-university robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 54-and-woodlawn robber 1 -100
+inf: GUIRobber 54pl-and-university robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 54-and-woodlawn robber 1 -100
+inf: GUIRobber 54-and-kimbark robber 1 -100
+inf: GUIRobber 55-and-kenwood robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 56-and-kimbark robber 1 -100
+inf: GUIRobber 55-and-kenwood robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber the-other-55-and-university robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-greenwood robber 1 -100
+inf: GUIRobber 56-and-university robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-greenwood robber 1 -100
+inf/
+inf\
+inf: GUIRobber 56-and-woodlawn robber 1 -100
+inf: GUIRobber 54pl-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-kimbark robber 1 -100
+inf: GUIRobber 55-and-university robber 1 -100
+inf: GUIRobber 56-and-woodlawn robber 1 -100
+inf: GUIRobber 54pl-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-kimbark robber 1 -100
+inf: GUIRobber 55-and-university robber 1 -100
+inf: GUIRobber 57-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 56-and-kimbark robber 1 -100
+inf: GUIRobber 57-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 56-and-university robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 54-and-woodlawn robber 1 -100
+inf: GUIRobber 54pl-and-university robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 54-and-woodlawn robber 1 -100
+inf: GUIRobber 54-and-kimbark robber 1 -100
+inf: GUIRobber 55-and-kenwood robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 56-and-kimbark robber 1 -100
+inf: GUIRobber 55-and-kenwood robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber the-other-55-and-university robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-greenwood robber 1 -100
+inf: GUIRobber 56-and-university robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-greenwood robber 1 -100
+inf: GUIRobber 57-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 56-and-kimbark robber 1 -100
+inf: GUIRobber 57-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 56-and-university robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 54-and-woodlawn robber 1 -100
+inf: GUIRobber 54pl-and-university robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 54-and-woodlawn robber 1 -100
+inf: GUIRobber 54-and-kimbark robber 1 -100
+inf: GUIRobber 55-and-kenwood robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 56-and-kimbark robber 1 -100
+inf: GUIRobber 55-and-kenwood robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber the-other-55-and-university robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-greenwood robber 1 -100
+inf: GUIRobber 56-and-university robber 1 -100
+inf: GUIRobber 55-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-greenwood robber 1 -100
+inf/
+inf\
+inf: GUIRobber 56-and-woodlawn robber 1 -100
+inf: GUIRobber 54pl-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-kimbark robber 1 -100
+inf: GUIRobber 55-and-university robber 1 -100
+inf: GUIRobber 55-and-cottage-grove robber 1 -100
+inf: GUIRobber 55-and-s-hyde-park robber 1 -100
+inf: GUIRobber 51-and-woodlawn robber 1 -100
+inf: GUIRobber 53-and-woodlawn robber 1 -100
+inf: GUIRobber midway-south-and-woodlawn robber 1 -100
+inf: GUIRobber midway-north-and-woodlawn robber 1 -100
+inf: GUIRobber 57-and-woodlawn robber 1 -100
+inf/
+inf\
+inf: GUIRobber 56-and-woodlawn robber 1 -100
+inf: GUIRobber 54pl-and-woodlawn robber 1 -100
+inf: GUIRobber 55-and-kimbark robber 1 -100
+inf: GUIRobber 55-and-university robber 1 -100
+inf: GUIRobber 55-and-cottage-grove robber 1 -100
+inf: GUIRobber 55-and-s-hyde-park robber 1 -100
+inf: GUIRobber 51-and-woodlawn robber 1 -100
+inf: GUIRobber 53-and-woodlawn robber 1 -100
+inf: GUIRobber midway-south-and-woodlawn robber 1 -100
+inf: GUIRobber midway-north-and-woodlawn robber 1 -100
+inf: GUIRobber 57-and-woodlawn robber 1 -100
+inf/

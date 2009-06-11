@@ -1,0 +1,1 @@
+server --gui -a ./resi 1 -r show-robber ./parser_test

@@ -1,0 +1,6 @@
+reg: GUIRobber robber
+reg: McGruffX cop-foot
+reg: McGruffX cop-car
+reg: McGruffX cop-car
+reg: McGruffX cop-foot
+reg: GUICopX cop-car

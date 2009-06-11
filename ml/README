@@ -1,0 +1,14 @@
+folgende module gibts hier:
+
+	world		world definitions
+	parser		funs zum parsen
+	unparser	funs fuers gegenteil
+        worldmap	world spezifischer wrapper um adjgraph
+        adjgraph        allgemeines graphen zeugs
+        pqueue          priority queue
+
+folgende executables:
+
+	tsim		simpler test fuern parser, frisst z.b. parse.txt
+	hsim		gui visualistator, funktioniert no net
+

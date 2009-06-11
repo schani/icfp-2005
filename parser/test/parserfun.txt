@@ -1,0 +1,8 @@
+name: 18 -45 Rudi robber foot ordinary
+cop: 218 -345 Walter cop-foot foot hq
+robber: 0 -0 Rooney robber car bank
+nod:	666 -777	Columbo cop-car	car hq
+edg: 33 -45 Crown robber foot bank
+wor: 18	-485 Rudi robber car	ordinary
+smell: 18 -45 Rudi robber foot  ordinary 
+stink: +45 --333 Enügmä politician bicycle hospital  

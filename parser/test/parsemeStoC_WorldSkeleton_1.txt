@@ -1,0 +1,51 @@
+wsk\
+name: Gnome
+robber: Frank
+cop: Gnome
+cop: Huey
+cop: Luey
+cop: Duey
+cop: Sherlok
+nod\
+nod: 1st_1st ordinary 0 0
+nod: 1st_2nd ordinary 0 400
+nod: 1st_3rd ordinary 0 800
+nod: 2nd_1st bank 400 0
+nod: 2nd_2nd bank 400 400
+nod: 2nd_3rd ordinary 400 800
+nod: 3rd_1st ordinary 800 0
+nod: 3rd_2nd ordinary 800 400
+nod: 3rd_3rd ordinary 800 800
+nod: 1st_50 hq 0 200
+nod: 3rd_250 ordinary 800 600
+nod: 2nd_250 robber-start 400 600
+nod/
+edg\
+edg: 1st_1st 1st_2nd foot
+edg: 1st_1st 1st_3rd car
+edg: 1st_3rd 1st_1st car
+edg: 1st_2nd 1st_3rd foot
+edg: 2nd_1st 2nd_2nd foot
+edg: 2nd_1st 2nd_3rd car
+edg: 2nd_2nd 2nd_3rd foot
+edg: 3rd_1st 3rd_2nd foot
+edg: 3rd_1st 3rd_3rd car
+edg: 3rd_3rd 3rd_1st car
+edg: 3rd_2nd 3rd_3rd foot
+edg: 1st_1st 1st_50 foot
+edg: 1st_50 1st_2nd foot
+edg: 1st_1st 2nd_1st foot
+edg: 2nd_1st 3rd_1st foot
+edg: 1st_2nd 2nd_2nd foot
+edg: 2nd_2nd 3rd_2nd foot
+edg: 1st_3rd 2nd_3rd foot
+edg: 2nd_3rd 3rd_3rd foot
+edg: 1st_1st 3rd_1st car
+edg: 1st_3rd 3rd_3rd car
+edg: 3rd_2nd 3rd_250 foot
+edg: 3rd_3rd 3rd_250 foot
+edg: 2nd_2nd 2nd_250 foot
+edg: 2nd_3rd 2nd_250 foot
+edg: 2nd_250 3rd_250 foot
+edg/
+wsk/
